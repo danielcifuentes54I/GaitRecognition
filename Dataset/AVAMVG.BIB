@@ -1,0 +1,12 @@
+@incollection{AVAMVG,
+   author={{David L\'opez-Fern\'andez, Francisco J. Madrid-Cuevas, \'Angel Carmona-Poyato, Manuel J. Mar\'in-Jiménez and Rafael Mu\~noz-Salinas}},
+   title={{The AVA Multi-View Dataset for Gait Recognition}},
+   booktitle={Activity Monitoring by Multiple Distributed Sensing},
+   series={Lecture Notes in Computer Science},
+   year={2014},
+   isbn={978-3-319-13322-5},
+   editor={Mazzeo, Pier Luigi and Spagnolo, Paolo and Moeslund, Thomas B.},
+   doi={10.1007/978-3-319-13323-2_3},
+   publisher={Springer International Publishing},
+   pages={26-39},
+}
