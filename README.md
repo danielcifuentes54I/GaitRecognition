@@ -1,0 +1,2 @@
+# gaitRecognition
+Investigación Gait Recognition
